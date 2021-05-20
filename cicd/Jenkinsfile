@@ -137,4 +137,3 @@ node {
         notifyMail("${currentBuild.currentResult}", "${emailRecipients}")			
     }
 }
-
